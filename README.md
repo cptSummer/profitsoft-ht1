@@ -121,6 +121,8 @@
 
 ```
 
+[statistics_by_photoFormat.xml](src%2Fmain%2Fresources%2Fassets%2Fstatistics_by_photoFormat.xml)
+
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <statistics>
