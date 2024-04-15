@@ -1,0 +1,79 @@
+[
+  {
+    "photoName": "mountain_nature",
+    "photoFormat": "jpg",
+    "photoPath": "user/jpg/photo1.jpg",
+    "photoTags": "happy, nature, sunset",
+    "uploadDate": "2010-07-11"
+  },
+  {
+    "photoName": "logo",
+    "photoFormat": "png",
+    "photoPath": "user/jpg/photo2.jpg",
+    "photoTags": "logo, low_poly",
+    "uploadDate": "2022-01-02"
+  },
+  {
+    "photoName": "season_nature",
+    "photoFormat": "jpg",
+    "photoPath": "user/jpg/photo3.jpg",
+    "photoTags": "sea, nature, day",
+    "uploadDate": "2022-07-11"
+  },
+  {
+    "photoName": "mountain_nature",
+    "photoFormat": "jpg",
+    "photoPath": "user/jpg/photo1.jpg",
+    "photoTags": "happy, nature, sunset",
+    "uploadDate": "2010-07-11"
+  },
+  {
+    "photoName": "logo",
+    "photoFormat": "png",
+    "photoPath": "user/jpg/photo2.jpg",
+    "photoTags": "logo, low_poly",
+    "uploadDate": "2022-01-02"
+  },
+  {
+    "photoName": "mountain_nature",
+    "photoFormat": "jpg",
+    "photoPath": "user/jpg/photo1.jpg",
+    "photoTags": "happy, nature, sunset",
+    "uploadDate": "2010-07-11"
+  },
+  {
+    "photoName": "logo",
+    "photoFormat": "png",
+    "photoPath": "user/jpg/photo2.jpg",
+    "photoTags": "logo, low_poly",
+    "uploadDate": "2022-01-02"
+  },
+  {
+    "photoName": "mountain_nature",
+    "photoFormat": "jpg",
+    "photoPath": "user/jpg/photo1.jpg",
+    "photoTags": "happy, nature, sunset",
+    "uploadDate": "2010-07-11"
+  },
+  {
+    "photoName": "logo",
+    "photoFormat": "png",
+    "photoPath": "user/jpg/photo2.jpg",
+    "photoTags": "logo, low_poly",
+    "uploadDate": "2022-01-02"
+  },
+  {
+    "photoName": "mountain_nature",
+    "photoFormat": "jpg",
+    "photoPath": "user/jpg/photo1.jpg",
+    "photoTags": "happy, nature, sunset",
+    "uploadDate": "2010-07-11"
+  },
+  {
+    "photoName": "logo",
+    "photoFormat": "png",
+    "photoPath": "user/jpg/photo2.jpg",
+    "photoTags": "logo, low_poly",
+    "uploadDate": "2022-01-02"
+  }
+]
